@@ -1,18 +1,17 @@
-<h1 align="center">Hi, I'm Ruyonga Daniel Bosco 👋</h1>
-<p align="center">
-  <b>Senior Full Stack Software Engineer | Osaka, Japan</b><br>
-  <a href="mailto:druyonga@gmail.com">druyonga@gmail.com</a> | 
-  <a href="https://linkedin.com/in/ruyonga">LinkedIn</a> | 
-  <a href="https://github.com/ruyonga">GitHub</a> | 
-  <a href="https://stackoverflow.com/users/1706878/ruyonga">Stack Overflow</a> | 
-  <a href="https://twitter.com/ruyonga">Twitter</a>
-</p>
+---
+layout: default
+---
+
+# 👋 Hi, I'm Ruyonga Daniel Bosco
+
+**Senior Full Stack Software Engineer | Osaka, Japan**  
+[Email](mailto:druyonga@gmail.com) | [LinkedIn](https://linkedin.com/in/ruyonga) | [GitHub](https://github.com/ruyonga) | [Stack Overflow](https://stackoverflow.com/users/1706878/ruyonga) | [Twitter](https://twitter.com/ruyonga)
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-Full Stack Engineer & Tech Leader with 7+ years of experience driving digital transformation in healthcare, fintech, and logistics.  
+Full Stack Engineer & Tech Leader with 7+ years’ experience driving digital transformation in healthcare, fintech, and logistics.  
 - Led teams of 8+ engineers, managed $230M+ in transactions, and delivered systems serving 1M+ users.
 - Deep expertise in Elixir, Python, Node.js, Vue.js, and cloud/DevOps.
 - Passionate about AI/ML, IoT, and building solutions that create real-world impact.
@@ -20,7 +19,7 @@ Full Stack Engineer & Tech Leader with 7+ years of experience driving digital tr
 
 ---
 
-### ✨ Career Highlights
+## Career Highlights
 
 - 🚀 **Teheca App featured at [Google I/O '19](https://www.youtube.com/watch?v=x8qTEMkZCPs) during the Firebase showcase!**  
   Our mission to make in-home healthcare more accessible was recognized on a global stage—a huge milestone for our team and Uganda’s tech ecosystem.  
@@ -30,34 +29,27 @@ Full Stack Engineer & Tech Leader with 7+ years of experience driving digital tr
 
 ---
 
-### 🏢 Experience
+## Experience
 
-**[Bamboo Technologies](https://investbamboo.com)**  
-*Engineering Manager / Elixir Engineer (2020–2023, Remote)*  
-- Led Elixir engineering team for core API and wallet/ledger systems, processing $230M+ in transactions.
-- Drove B2B platform expansion, onboarding enterprise clients in Nigeria and Ghana.
-- Architected and integrated stock exchange and payment APIs, boosting productivity by 30%.
+- **[Bamboo Technologies](https://investbamboo.com)**  
+  *Engineering Manager / Elixir Engineer (2020–2023, Remote)*  
+  Led Elixir engineering team for core API and wallet/ledger systems, processing $230M+ in transactions. Drove B2B platform expansion, onboarding enterprise clients in Nigeria and Ghana. Architected and integrated stock exchange and payment APIs, boosting productivity by 30%.
 
-**[SafeBoda](https://safeboda.com)**  
-*Full Stack Engineer (2018–2020, Kampala, Uganda)*  
-- Built payment and operations APIs (Elixir/Phoenix) for Uganda’s largest ride-hailing platform.
-- Developed Vue.js dashboards and migrated legacy code, improving efficiency by 40%.
-- Supported 20,000 drivers and 1M+ users with robust, scalable systems.
+- **[SafeBoda](https://safeboda.com)**  
+  *Full Stack Engineer (2018–2020, Kampala, Uganda)*  
+  Built payment and operations APIs (Elixir/Phoenix) for Uganda’s largest ride-hailing platform. Developed Vue.js dashboards and migrated legacy code, improving efficiency by 40%. Supported 20,000 drivers and 1M+ users with robust, scalable systems.
 
-**[Teheca](https://teheca.com)**  
-*Co-Founder & Tech Lead (2016–2024, Kampala, Uganda)*  
-- Built and scaled a healthcare tech startup serving 2,000+ clients via 300+ nurses.
-- Secured $100K+ in funding, led 3 accelerator programs (Google Launchpad, UNFPA, MasterCard).
-- Developed mobile/web apps, chatbots, and APIs; managed cloud infrastructure (GCP, DigitalOcean).
+- **[Teheca](https://teheca.com)**  
+  *Co-Founder & Tech Lead (2016–2024, Kampala, Uganda)*  
+  Built and scaled a healthcare tech startup serving 2,000+ clients via 300+ nurses. Secured $100K+ in funding, led 3 accelerator programs (Google Launchpad, UNFPA, MasterCard). Developed mobile/web apps, chatbots, and APIs; managed cloud infrastructure (GCP, DigitalOcean).
 
-**[Kawatatec](https://kawatatec.com)**  
-*IoT Dashboard Project (2024, Nara, Japan)*  
-- Built Django-based dashboards for real-time factory sensor data and humidity monitoring.
-- Gained insights into Japanese manufacturing and cross-cultural teamwork.
+- **[Kawatatec](https://kawatatec.com)**  
+  *IoT Dashboard Project (2024, Nara, Japan)*  
+  Built Django-based dashboards for real-time factory sensor data and humidity monitoring. Gained insights into Japanese manufacturing and cross-cultural teamwork.
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
 - **[Context-Sensitive RAG Search for Maternal Health](https://nurva.teheca.com)**  
   AI-powered search tool for enhanced maternal health information access (MSc Thesis, TIU)
@@ -70,7 +62,7 @@ Full Stack Engineer & Tech Leader with 7+ years of experience driving digital tr
 
 ---
 
-### 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages & Frameworks:** Elixir/Phoenix/LiveView, Python/Django, Node.js/Express, Vue.js, Java, PHP/Laravel
 - **Cloud & DevOps:** Google Cloud, DigitalOcean, Heroku, CI/CD, Monitoring, Deployment Automation
@@ -81,7 +73,7 @@ Full Stack Engineer & Tech Leader with 7+ years of experience driving digital tr
 
 ---
 
-### 🎓 Education
+## Education
 
 **MSc, Digital Business & Innovation**  
 Tokyo International University, Japan (2023–2025)  
@@ -95,7 +87,7 @@ Makerere University, Uganda (2011–2015)
 
 ---
 
-### 📜 Certifications
+## Certifications
 
 - TensorFlow & Deep Learning (Udemy, 2024)
 - Python Django Programming (Udemy, 2024)
@@ -106,14 +98,14 @@ Makerere University, Uganda (2011–2015)
 
 ---
 
-### 🌏 Languages
+## Languages
 
 - English (Native)
 - Japanese (Conversational)
 
 ---
 
-### 🤝 Connect with Me
+## Connect
 
 - [LinkedIn](https://linkedin.com/in/ruyonga)
 - [GitHub](https://github.com/ruyonga)
@@ -123,6 +115,6 @@ Makerere University, Uganda (2011–2015)
 
 ---
 
-### ⚡ Interests
+## Interests
 
 Digital Transformation • AI/ML Applications • System Architecture • Entrepreneurship • Cross-Cultural Team Leadership
