@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Hi, I'm Ruyonga Daniel Bosco
 
-**Senior Full Stack Software Engineer | Osaka, Japan**  
+## Senior Full Stack Software Engineer | Osaka, Japan  
 [Email](mailto:druyonga@gmail.com) | [LinkedIn](https://linkedin.com/in/ruyonga) | [GitHub](https://github.com/ruyonga) | [Stack Overflow](https://stackoverflow.com/users/1706878/ruyonga) | [Twitter](https://twitter.com/ruyonga)
 
 ---
