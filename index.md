@@ -5,7 +5,7 @@ layout: default
 # 👋 Hi, I'm Ruyonga Daniel Bosco
 
 ## Senior Full Stack Software Engineer | Osaka, Japan  
-[Email](mailto:druyonga@gmail.com) | [LinkedIn](https://linkedin.com/in/ruyonga) | [GitHub](https://github.com/ruyonga) | [Stack Overflow](https://stackoverflow.com/users/1706878/ruyonga) | [Twitter](https://twitter.com/ruyonga)
+[Email](mailto:druyonga@gmail.com) | [LinkedIn](https://linkedin.com/in/ruyonga) | [GitHub](https://github.com/ruyonga) | [Stack Overflow](https://stackoverflow.com/users/1908167/ruyonga-dan) | [Twitter](https://twitter.com/ruyonga)
 
 ---
 
@@ -102,16 +102,6 @@ Makerere University, Uganda (2011–2015)
 
 - English (Native)
 - Japanese (Conversational)
-
----
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/ruyonga)
-- [GitHub](https://github.com/ruyonga)
-- [Stack Overflow](https://stackoverflow.com/users/1706878/ruyonga)
-- [Twitter](https://twitter.com/ruyonga)
-- [Facebook](https://facebook.com/ruyonga.dan)
 
 ---
 
